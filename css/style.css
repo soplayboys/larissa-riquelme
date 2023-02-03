@@ -54,7 +54,7 @@ main {
 }
 
 main a:hover {
-    background-color: var(--cor4);
+    background-color: var(--cor2);
     transition-duration: 0.5s;
 }
 
