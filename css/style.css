@@ -51,7 +51,7 @@ header > p {
 
 header img {
     position: absolute;
-    width: 150px;
+    max-width: 150px;
     transform: translate(-20%);
 }
 
