@@ -10,11 +10,16 @@ header p {
 }
 
 main {
-    width: 90vw;
+    width: 79vw;
 }
 
 img {
-    max-width: 223px;
+    max-width: 75px;
+}
+
+div.separacao {
+    width: 154px;
+    margin: auto;
 }
 
 footer p {
