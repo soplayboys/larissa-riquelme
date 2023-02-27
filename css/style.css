@@ -36,7 +36,7 @@ header > h1 {
     max-width: 965px;
     margin: auto;
     text-align: center;
-    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.384);
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.384);
 }
 
 header > p {

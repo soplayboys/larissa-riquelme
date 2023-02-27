@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+@media screen and (max-width: 768px) {
+    header h1 {
+        text-align: center;
+    }
+    main {
+        width: 460px;
+    }
+
+    img {
+        max-width: 112px;
+    }
+
+    div.separacao {
+        width: 228px;
+        margin: auto;
+    }
+}
