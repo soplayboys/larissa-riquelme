@@ -1,19 +1,27 @@
 @charset "UTF-8";
 
-@media screen and (max-width: 768px) {
-    header h1 {
-        text-align: center;
-    }
-    main {
-        width: 460px;
-    }
+header h1 {
+    font-size: 2em;
+    text-align: center;
+}
 
-    img {
-        max-width: 112px;
-    }
+header p {
+    font-size: 0.9em;
+}
 
-    div.separacao {
-        width: 228px;
-        margin: auto;
-    }
+main {
+    width: 372px;
+}
+
+img {
+    max-width: 90px;
+}
+
+div.separacao {
+    width: 184px;
+    margin: auto;
+}
+
+footer p {
+    font-size: 1.2em;
 }
