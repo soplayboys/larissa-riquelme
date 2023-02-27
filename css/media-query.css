@@ -14,12 +14,7 @@ main {
 }
 
 img {
-    max-width: 86px;
-}
-
-div.separacao {
-    width: 184px;
-    margin: auto;
+    max-width: 223px;
 }
 
 footer p {
