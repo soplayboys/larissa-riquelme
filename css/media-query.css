@@ -11,16 +11,11 @@
     }
     
     main {
-        width: 49vw;
+        width: 89vw;
     }
     
     img {
-        max-width: 120px;
-    }
-    
-    div.separacao {
-        width: 154px;
-        margin: auto;
+        max-width: 44vw;
     }
     
     footer p {
